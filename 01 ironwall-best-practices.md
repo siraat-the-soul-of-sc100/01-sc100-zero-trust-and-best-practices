@@ -106,8 +106,8 @@ And through it all, 👁️ **I.K.** reminds us:
 
 ---
 
-🔗 **Explore on Microsoft Learn:**  
-[Introduction to Zero Trust and best practice frameworks – Microsoft Learn](https://learn.microsoft.com/en-gb/training/modules/introduction-zero-trust-best-practice-frameworks/1-introduction-best-practices)
+🔗 **Further Reading on Microsoft Learn:**  
+[📘 Introduction to Zero Trust and Best Practice Frameworks](https://learn.microsoft.com/en-gb/training/modules/introduction-zero-trust-best-practice-frameworks/1-introduction-best-practices)
 
 ---
 
