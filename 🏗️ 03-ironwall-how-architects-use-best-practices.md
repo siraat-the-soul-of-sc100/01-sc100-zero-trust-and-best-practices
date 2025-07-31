@@ -131,6 +131,10 @@ To lead securely is to **listen deeply**.
 And to build wisely... is to **weave the unseen into the visible**. 🌸
 
 ---
+🔗 **Further Reading — Microsoft Learn**  
+[Introduction to Zero Trust and best practice frameworks](https://learn.microsoft.com/en-gb/training/modules/introduction-zero-trust-best-practice-frameworks/1-introduction-best-practices)
+
+---
 
 ### ✒️ Closing Signature
 
