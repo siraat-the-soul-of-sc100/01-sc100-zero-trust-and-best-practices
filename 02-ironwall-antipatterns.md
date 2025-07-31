@@ -90,6 +90,23 @@ Now, they follow the practice — and the **spirit** — of patching.
 
 ---
 
+# 🌑✨ Summary: Antipatterns — Where Good Intentions Go Astray ✨🌑
+
+---
+
+Antipatterns are not born of malice — they are forged in assumptions, misunderstandings, and the fear of change. 🌫️
+
+They are the **opposite of best practices**: familiar choices that quietly lead to failure. Microsoft has witnessed how delaying patches, blaming the wrong teams, over-customizing, or simply focusing on the wrong targets — all create cracks in the fortress of security.
+
+Each antipattern is a mirror. Each one asks:  
+> “Will you learn from this... or repeat it?”
+
+Through the voices of 👨‍💼 **Eks2**, 🇪🇸 **Sofia**, 🇩🇰 **Kasper**, 🇷🇺 **Elina**, and 🕶️ **ShadowNet**, we are reminded:  
+**To protect well is to reflect often.**  
+Patch broadly. Trust humbly. Test deeply. Collaborate kindly.
+
+---
+
 🔗 **Further Reading on Microsoft Learn:**  
 [📘 Introduction to Zero Trust and Best Practice Frameworks](https://learn.microsoft.com/en-gb/training/modules/introduction-zero-trust-best-practice-frameworks/1-introduction-best-practices)
 
